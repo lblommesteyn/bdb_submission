@@ -60,6 +60,7 @@ We took things further with a Gradient Boosting model, which gave even more deta
 
 ![speed_analysis_transformers.png](attachment:40fbece3-5267-4162-801f-ea92fa5a2998.png)
 
+Alt link: https://drive.google.com/file/d/1RgoTleugiHgxfzaHGW5D54aidZ26S-L1/view?usp=sharing
 ---
 
 ### **Phase 3: Using Transformers to Study Motion Over Time**
@@ -69,6 +70,8 @@ Football isn’t just about where players are—it’s about how they move over 
 - **Performance**: The Transformer model correctly identified meaningful pre-snap motion that led to deception **95.14%** of the time.
 - **Feature Insights**: The feature importance analysis reinforced the critical role of acceleration and speed variability in creating deceptive plays. The Transformer model captured these relationships dynamically over time.  
 ![fia_transformers.png](attachment:b746b67d-b765-4b4a-bcda-fa1e38e11eb8.png)
+
+Alt link: https://drive.google.com/file/d/1gOV9berAgvHm_O2BRG0pwdhfK7rCfIjX/view?usp=sharing
 ---
 
 ### **Why This Matters for Football**
